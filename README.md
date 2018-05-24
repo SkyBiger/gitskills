@@ -1,2 +1,3 @@
 # gitskills
-git exercise
+git exercise 
+git is a good software
